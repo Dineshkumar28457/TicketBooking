@@ -1,0 +1,13 @@
+.Mainhead{
+	text-align:center;
+	padding-bottom:4%;
+}
+.adminform{
+	background-color:black;
+	height:100%;
+	color:white;
+	padding-top:8%;
+}
+input{
+	width:200px;
+}

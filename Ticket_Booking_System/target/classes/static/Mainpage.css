@@ -1,0 +1,66 @@
+h1{
+	background-color:white;
+	color:darkgoldenrod;
+	text-align:center;
+	font-weight:bold;
+}
+
+
+
+.image{
+height:50px;
+}
+.dropdown {
+margin-left:60%;
+}
+.image2{
+height:450px;
+border-radius:40px;
+padding-left:25px;
+padding-right:25px;
+padding-top:25px;
+padding-bottom:25px;
+}
+.ticketbook{
+background-color:black;
+width:100%;
+}
+.moviename{
+	margin-left:-1%;
+	font-weight:bold;
+	color:#e83155;
+}
+
+.moviedetails{
+padding-top:75px;
+padding-bottom:25px;
+color:white;
+font-weight:bold;
+}
+.Click{
+background-color:#e83155;
+height:40px;
+width:200px;
+margin-top:25px;
+margin-bottom:10px;
+border-radius:10px;
+color:white;
+}
+.About{
+padding-top:25px;
+padding-left:30px;
+font-weight:bold;
+color:red;
+}
+.About1{
+padding-top:10px;
+padding-left:30px;
+}
+.castimages{
+	height:125px;
+	width:125px;
+	padding-top:10px;
+    padding-left:30px;
+    border-radius:100px;
+   
+}

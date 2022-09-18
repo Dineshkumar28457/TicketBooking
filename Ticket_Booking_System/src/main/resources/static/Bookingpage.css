@@ -1,0 +1,30 @@
+h1{
+	background-color:white;
+	color:darkgoldenrod;
+	text-align:center;
+	font-weight:bold;
+}
+.moviename{
+	text-align:center;
+}
+.image{
+height:50px;
+}
+.dropdown {
+margin-left:60%;
+}
+.moviename{
+	color:white;
+}
+.certified{
+	color:red;
+    margin-left:4%;    
+}
+.top_heading_details{
+	display:flex;
+	color:white;
+}
+.date {
+	font-weight:bold;
+	text-align:center;
+}
